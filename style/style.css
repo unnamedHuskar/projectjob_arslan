@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Inter:wght@300&family=Nunito+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 1440px;
+    height: 3663px;
+}
+.bg{
+    z-index: -99;
+    position: absolute;
+    width: 1440px;
+    height: 417px;
+    left: 0;
+    top: 35px;
+}
+
+.navigation{
+    position: absolute;
+    top: 55px;
+}
+.logo{
+    padding: 744px;
+    position: relative;
+    top: -14px;
+}
+.text_nav{
+    font-family: sans-serif, "Roboto Thin";
+    text-decoration: none;
+    font-size: 14px;
+    margin: 44px;
+
+}
+.img_nav{
+    position: absolute;
+    margin-left: 1310px;
+    top: 44px;
+}
+.header_card{
+    margin-left: 620px;
+    padding-top: 120px;
+}
+.info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    width: 432px;
+    height: 160px;
+    font-size: 80px;
+    top: 185px;
+}
+.elipse{
+    position: absolute;
+    top: 309px;
+    left: 223px;
+}
